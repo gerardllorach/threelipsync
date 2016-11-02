@@ -4,6 +4,14 @@
 // The webpage needs to be https in order to get the microphone. If using external
 // audio files from URL, they need to be from a https origin.
 
+/*
+  Author: Gerard Llorach
+  Paper: G. Llorach, A. Evans, J. Blat, G. Grimm, V. Hohmann. Web-based live speech-driven 
+  lip-sync, Proceedings of VS-Games 2016, September, Barcelona
+  Date: Nov 2016
+  License: MIT
+*/
+
 // Switch to https if using this script
 if (window.location.protocol != "https:")
     window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);

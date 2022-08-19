@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=89pBiGKXpZI
 
 Here is the package for Unity:
 https://doi.org/10.5281/zenodo.5765691
+
+Reference:
+Llorach, G., Evans, A., Blat, J., Grimm, G. and Hohmann, V., 2016, September. Web-based live speech-driven lip-sync. In 2016 8th International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES) (pp. 1-4). IEEE.

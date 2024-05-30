@@ -4,6 +4,9 @@ Computes the weights of THREE blend shapes (kiss, lips closed and mouth open/jaw
 
 To use the microphone call startMic(). To use an external audio file from an URL use startSample(URL). Remember that the webpage should be https in order to use the microphone.
 
+Web demo:
+https://gerardllorach.github.io/threelipsync/
+
 An explanation about the theory behind the algorithm can be found here:
 https://www.youtube.com/watch?v=89pBiGKXpZI
 
